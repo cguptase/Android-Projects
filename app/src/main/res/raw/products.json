@@ -1,0 +1,77 @@
+[
+  {
+    "title": "The Shining by Stephen King (1977)",
+    "url": "https://m.media-amazon.com/images/P/0345806786.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$25.99"
+  },
+  {
+    "title": "The Little Prince by Antoine de Saint-Exupéry (1943)",
+    "url": "https://m.media-amazon.com/images/P/B008QYT7DI.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$15.39"
+  },
+  {
+    "title": "Anna Karenina by Leo Tolstoy (1878)",
+    "url": "https://m.media-amazon.com/images/I/91F9WNEThJL.jpg",
+    "price": "$17.84"
+  },
+  {
+    "title": "The Fellowship of the Ring by J.R.R. Tolkien (1954)",
+    "url": "https://m.media-amazon.com/images/P/0063270889.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$14.39"
+  },
+  {
+    "title": "The Handmaid’s Tale by Margaret Atwood (1985)",
+    "url": "https://m.media-amazon.com/images/P/038549081X.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$17.89"
+  },
+  {
+    "title": "To Kill a Mockingbird by Harper Lee (1960)",
+    "url": "https://m.media-amazon.com/images/I/51IXWZzlgSL.jpg",
+    "price": "$24.99"
+  },
+  {
+    "title": "A Wrinkle in Time by Madeleine L’Engle (1962)",
+    "url": "https://m.media-amazon.com/images/P/0312367546.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$11.49"
+  },
+  {
+    "title": "Pride and Prejudice by Jane Austen (1813)",
+    "url": "https://m.media-amazon.com/images/P/0199535566.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$11.69"
+  },
+  {
+    "title": "Where the Sidewalk Ends by Shel Silverstein (1974)",
+    "url": "https://m.media-amazon.com/images/I/51ZnpIZcanL._SX376_BO1,204,203,200_.jpg",
+    "price": "$10.43"
+  },
+  {
+    "title": "All the President’s Men by Bob Woodward and Carl Bernstein (1974)",
+    "url": "https://m.media-amazon.com/images/P/1476770514.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$54.99"
+  },
+  {
+    "title": "Man’s Search for Meaning by Viktor E. Frankl (1946)",
+    "url": "https://m.media-amazon.com/images/P/0807014273.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$11.99"
+  },
+  {
+    "title": "Valley of the Dolls by Jacqueline Susann (1966)",
+    "url": "https://m.media-amazon.com/images/I/41vVA3MS2fL._SY344_BO1,204,203,200_.jpg",
+    "price": "$25.00"
+  },
+  {
+    "title": "Beloved by Toni Morrison (1987)",
+    "url": "https://m.media-amazon.com/images/P/1400033411.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$16.74"
+  },
+  {
+    "title": "In Cold Blood by Truman Capote (1965)",
+    "url": "https://m.media-amazon.com/images/P/0679745580.01._SCLZZZZZZZ_SX500_.jpg",
+    "price": "$16.99"
+  },
+  {
+    "title": "Chirag Gupta",
+    "url": "https://lh3.googleusercontent.com/a/AEdFTp5PpVaOlndWrlos4NrqTj4PQBzmfh0Pn2KFptutgA=s360-p-rw-no",
+    "price": "21MCA3047"
+  }
+]
