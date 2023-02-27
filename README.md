@@ -1,3 +1,3 @@
-# MDC-101 for Material Components for Android (Kotlin)
+Shelf is a Book Library for CU Students
 
-Contains starter code structure for the MDC-101 Kotlin codelab.
+To Run this code, Just download this code and Run in your android Studio
